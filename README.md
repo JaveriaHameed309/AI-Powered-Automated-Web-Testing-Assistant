@@ -1,2 +1,2 @@
 # AI-Powered-Automated-Web-Testing-Assistant
-AI-powered automated web testing assistant that detects UI issues, intelligently automates test case generation using LLMs, executes tests with Playwright, captures screenshots, logs errors, and improves overall web application quality and testing efficiency for developers.
+AI-powered web testing assistant that generates test cases using LLMs, automates browser testing with Playwright, detects UI issues, captures screenshots, logs errors, and provides AI-assisted insights to improve web application quality and testing efficiency.
